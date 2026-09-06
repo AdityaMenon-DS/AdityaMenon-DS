@@ -1,4 +1,4 @@
-## hey, I'm Aditya 👋
+## hey, I'm Menon 👋
 
 Python, web apps, and an Arch desktop running Hyprland.
 
@@ -16,7 +16,7 @@ menon = {
 
 ### meanwhile, in my terminal
 
-![A Pokémon-style terminal with Arch Linux, Hyprland, and menon as the root folder](assets/terminal.svg)
+![My Arch Linux + Hyprland terminal](terminal.svg)
 
 <sub>A little illustration of my setup.</sub>
 
