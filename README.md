@@ -1,28 +1,30 @@
-<div align="center">
+## hey, I'm Aditya 👋
 
-# Aditya Menon
+Python, web apps, and an Arch desktop running Hyprland.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=70A5FD&center=true&vCenter=true&width=500&lines=Python+%2F+Flask+%2F+Vue;Building+web+apps.;Working+through+problems." alt="Python / Flask / Vue. Building web apps. Working through problems." />
+### a little about me
 
-<br />
+```python
+menon = {
+    "name": "Aditya Menon",
+    "code": ["Python", "JavaScript", "HTML", "CSS"],
+    "tools": ["Flask", "Vue", "SQLite", "Redis", "Celery"],
+    "desktop": {"os": "Arch Linux", "wm": "Hyprland"},
+    "terminal_vibe": "Pokémon",
+}
+```
 
-<img src="https://skillicons.dev/icons?i=python,flask,vue,sqlite,redis,git&theme=dark" alt="Python, Flask, Vue, SQLite, Redis, Git" />
+### meanwhile, in my terminal
 
-</div>
+![A Pokémon-style terminal with Arch Linux, Hyprland, and menon as the root folder](assets/terminal.svg)
 
-<br />
+<sub>A little illustration of my setup.</sub>
 
-### On my GitHub
+### things you'll find here
 
-🏔️ **[Trekking Manager](https://github.com/AdityaMenon-DS/trekking-management-appplication-v2)** — a booking app with Flask APIs, Vue, Redis caching and Celery jobs. Started with [a Flask + Jinja version](https://github.com/AdityaMenon-DS/trekking-management-application).
+- [Trekking Manager](https://github.com/AdityaMenon-DS/trekking-management-appplication-v2) — a Flask + Vue booking app, with Redis and Celery.
+- [The original version](https://github.com/AdityaMenon-DS/trekking-management-application) — built with Flask and Jinja.
+- [LeetCode](https://github.com/AdityaMenon-DS/Leetcode) — my Python solutions.
 
-🧩 **[LeetCode](https://github.com/AdityaMenon-DS/Leetcode)** — my Python,Java,Javascript solutions.
-
-<br />
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AdityaMenon-DS&theme=tokyonight&hide_border=true" alt="Aditya's GitHub contribution streak" />
-
-</div>
-
+---
+<sub>Profile layout inspired by <a href="https://github.com/Thaiane/Thaiane">Thaiane</a>.</sub>
