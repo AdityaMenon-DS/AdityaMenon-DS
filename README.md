@@ -1,6 +1,7 @@
 ## hey, I'm Menon 👋
 
 Python, web apps, and an Arch desktop running Hyprland.
+[Connect with me on LinkedIn ↗](https://www.linkedin.com/in/aditya-datascience/)
 
 ### a little about me
 
