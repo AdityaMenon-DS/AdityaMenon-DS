@@ -24,7 +24,7 @@ menon = {
 
 - [Trekking Manager](https://github.com/AdityaMenon-DS/trekking-management-appplication-v2) — a Flask + Vue booking app, with Redis and Celery.
 - [The original version](https://github.com/AdityaMenon-DS/trekking-management-application) — built with Flask and Jinja.
-- [LeetCode](https://github.com/AdityaMenon-DS/Leetcode) — my Python solutions.
+- [LeetCode](https://github.com/AdityaMenon-DS/Leetcode) — my Python,Java,Javascript solutions.
 
 ---
 <sub>Profile layout inspired by <a href="https://github.com/Thaiane/Thaiane">Thaiane</a>.</sub>
